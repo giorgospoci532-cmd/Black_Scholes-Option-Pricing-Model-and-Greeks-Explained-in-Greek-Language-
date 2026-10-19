@@ -1,0 +1,2 @@
+# Black_Scholes-Option-Pricing-Model-and-Greeks-Explained-in-Greek-Language-
+Black-Scholes option pricing in Python. Enter an OCC option symbol (e.g. AAPL261218C00250000) and get the fair price and Greeks (Delta, Gamma, Vega, Theta, Rho) using live Yahoo Finance data, plus a comparison with market prices. Includes beginner-friendly comments in Greek to help explain the basics. For educational use only.
